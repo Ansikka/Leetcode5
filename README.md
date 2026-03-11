@@ -22,4 +22,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ansikka/Leetcode5/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Ansikka/Leetcode5/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
