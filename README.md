@@ -29,10 +29,12 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -46,4 +48,16 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
