@@ -10,6 +10,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ansikka/Leetcode5/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansikka/Leetcode5/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
