@@ -8,6 +8,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ansikka/Leetcode5/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ansikka/Leetcode5/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansikka/Leetcode5/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -130,5 +131,6 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ansikka/Leetcode5/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
