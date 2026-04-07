@@ -92,6 +92,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/Ansikka/Leetcode5/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,5 +136,6 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ansikka/Leetcode5/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Ansikka/Leetcode5/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
