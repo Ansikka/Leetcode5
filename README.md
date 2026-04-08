@@ -73,6 +73,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ansikka/Leetcode5/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +139,9 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Ansikka/Leetcode5/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
