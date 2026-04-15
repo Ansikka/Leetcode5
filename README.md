@@ -11,6 +11,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0657-robot-return-to-origin](https://github.com/Ansikka/Leetcode5/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ansikka/Leetcode5/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansikka/Leetcode5/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ansikka/Leetcode5/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ansikka/Leetcode5/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ansikka/Leetcode5/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
