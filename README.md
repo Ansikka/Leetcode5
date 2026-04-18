@@ -83,6 +83,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Ansikka/Leetcode5/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
