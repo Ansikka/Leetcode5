@@ -39,6 +39,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
@@ -66,6 +67,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ansikka/Leetcode5/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ansikka/Leetcode5/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -149,4 +151,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
