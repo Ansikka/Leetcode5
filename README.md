@@ -42,6 +42,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ansikka/Leetcode5/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ansikka/Leetcode5/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -88,6 +90,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ansikka/Leetcode5/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +166,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Ansikka/Leetcode5/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 <!---LeetCode Topics End-->
