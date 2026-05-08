@@ -91,6 +91,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Ansikka/Leetcode5/tree/main/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -102,6 +103,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansikka/Leetcode5/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ansikka/Leetcode5/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -196,4 +199,9 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansikka/Leetcode5/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
