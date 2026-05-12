@@ -51,6 +51,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansikka/Leetcode5/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansikka/Leetcode5/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -77,6 +78,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansikka/Leetcode5/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ansikka/Leetcode5/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansikka/Leetcode5/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -128,6 +130,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansikka/Leetcode5/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansikka/Leetcode5/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
