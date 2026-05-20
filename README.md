@@ -42,6 +42,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Ansikka/Leetcode5/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansikka/Leetcode5/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansikka/Leetcode5/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ansikka/Leetcode5/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ansikka/Leetcode5/tree/main/2906-construct-product-matrix/) | Medium |
@@ -164,6 +166,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ansikka/Leetcode5/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ansikka/Leetcode5/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
