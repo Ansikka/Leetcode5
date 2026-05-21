@@ -13,6 +13,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansikka/Leetcode5/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ansikka/Leetcode5/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ansikka/Leetcode5/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [2751-robot-collisions](https://github.com/Ansikka/Leetcode5/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ansikka/Leetcode5/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ansikka/Leetcode5/tree/main/2906-construct-product-matrix/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ansikka/Leetcode5/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ansikka/Leetcode5/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ansikka/Leetcode5/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -167,6 +169,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1345-jump-game-iv](https://github.com/Ansikka/Leetcode5/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ansikka/Leetcode5/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ansikka/Leetcode5/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -222,4 +225,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ansikka/Leetcode5/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
