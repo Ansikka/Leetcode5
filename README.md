@@ -91,6 +91,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansikka/Leetcode5/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ansikka/Leetcode5/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ansikka/Leetcode5/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ansikka/Leetcode5/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
