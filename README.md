@@ -18,6 +18,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/Ansikka/Leetcode5/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ansikka/Leetcode5/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ansikka/Leetcode5/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ansikka/Leetcode5/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -84,6 +85,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansikka/Leetcode5/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ansikka/Leetcode5/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1340-jump-game-v](https://github.com/Ansikka/Leetcode5/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Ansikka/Leetcode5/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ansikka/Leetcode5/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -144,6 +146,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/Ansikka/Leetcode5/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ansikka/Leetcode5/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ansikka/Leetcode5/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
