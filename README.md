@@ -54,6 +54,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ansikka/Leetcode5/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ansikka/Leetcode5/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ansikka/Leetcode5/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ansikka/Leetcode5/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -109,6 +110,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ansikka/Leetcode5/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Ansikka/Leetcode5/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ansikka/Leetcode5/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ansikka/Leetcode5/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -148,6 +150,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,4 +245,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Ansikka/Leetcode5/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
