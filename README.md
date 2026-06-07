@@ -110,6 +110,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansikka/Leetcode5/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansikka/Leetcode5/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Ansikka/Leetcode5/tree/main/2126-destroying-asteroids/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ansikka/Leetcode5/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansikka/Leetcode5/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Ansikka/Leetcode5/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -197,6 +198,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0874-walking-robot-simulation](https://github.com/Ansikka/Leetcode5/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ansikka/Leetcode5/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ansikka/Leetcode5/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ansikka/Leetcode5/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ansikka/Leetcode5/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ansikka/Leetcode5/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ansikka/Leetcode5/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -267,4 +269,12 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ansikka/Leetcode5/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Ansikka/Leetcode5/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
