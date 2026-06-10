@@ -74,6 +74,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ansikka/Leetcode5/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansikka/Leetcode5/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ansikka/Leetcode5/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ansikka/Leetcode5/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ansikka/Leetcode5/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ansikka/Leetcode5/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Ansikka/Leetcode5/tree/main/3660-jump-game-ix/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ansikka/Leetcode5/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansikka/Leetcode5/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ansikka/Leetcode5/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ansikka/Leetcode5/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +167,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Ansikka/Leetcode5/tree/main/3161-block-placement-queries/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ansikka/Leetcode5/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
