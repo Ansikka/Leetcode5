@@ -140,6 +140,7 @@ readable code with comments where necessary. The goal of this repository is to i
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Ansikka/Leetcode5/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Ansikka/Leetcode5/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ansikka/Leetcode5/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ansikka/Leetcode5/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
