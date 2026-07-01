@@ -294,4 +294,8 @@ readable code with comments where necessary. The goal of this repository is to i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ansikka/Leetcode5/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ansikka/Leetcode5/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
