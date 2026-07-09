@@ -303,6 +303,7 @@ readable code with comments where necessary. The goal of this repository is to i
 | [0595-big-countries](https://github.com/Ansikka/Leetcode5/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Ansikka/Leetcode5/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Ansikka/Leetcode5/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Ansikka/Leetcode5/tree/main/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ansikka/Leetcode5/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Ansikka/Leetcode5/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ansikka/Leetcode5/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
